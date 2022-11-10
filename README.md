@@ -1,2 +1,2 @@
 # networksdoc
-this zip file contains word document of networks program
+this branch contains word document of networks program
